@@ -1,6 +1,6 @@
 # Hi, I'm Harpi 👋
 
-English · [中文](README.zh-CN.md)
+**English** · [中文](README.zh-CN.md)
 
 I build AI product prototypes around real workflows: helping retail staff create grounded content, making ESG information easier to explore, and turning complex work into clear next steps.
 
